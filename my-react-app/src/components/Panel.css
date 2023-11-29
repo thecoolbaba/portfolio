@@ -21,6 +21,14 @@
     margin: 0 50px; 
   }
 
+  .panel img {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .panel img:hover {
+    transform: scale(1.4); 
+  }
+
 
   @media (max-width: 900px) {
     .panel-icons { 

@@ -1,0 +1,23 @@
+
+
+.information {
+    display: flex;
+    align-items: flex-start;
+    padding: 20px;
+}
+
+.information-text {
+    flex: 1;
+    margin-top: 50px; 
+}
+
+.about-title {
+    font-size: 24px;
+    color: #4b0082;
+    margin-bottom: 10px;
+}
+
+.about-text {
+    width: 40%;
+   color: #4b0082;
+}
